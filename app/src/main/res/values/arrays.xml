@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="movieArray">
+        <item>Caroline</item>
+        <item>Toy Story</item>
+        <item>Incredibles</item>
+    </array>
+</resources>

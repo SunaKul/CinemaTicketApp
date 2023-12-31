@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReyhanSunaKul_HW1</string>
+    <string name="welcomeMessage">Buy a cartoon movie ticket. Enter the amount below</string>
+    <string name="txt_hint_name">Amount</string>
+    <string name="btn">Buy</string>
+    <string name="btnClose">Close</string>
+    <string name="seatNumber">Choose a seat</string>
+</resources>
